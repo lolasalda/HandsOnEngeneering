@@ -1,2 +1,3 @@
 # HandsOnEngeneering
 School project
+Cell Phone batteries are a very underrated problem. Many people think that by only seeing the status bar they can figure out if they’re battery is working correctly; however, the battery’s state as a whole is a completely different problem. People don’t know how much time their phone has left until it dies, or even worse, if the battery is in good condition. Nowadays, people rely on their phone to do almost anything, no matter how much you use your phone, it is important to know how you could distribute your time throughout the day, and don’t consume your battery insufficiently, and more importantly, be aware and prepared in case your battery is malfunctioning. 
